@@ -15,3 +15,5 @@
 ## Endpoint
 - /categories
 - /products
+
+<img width="1919" height="1125" alt="Cuplikan layar 2025-12-17 080222" src="https://github.com/user-attachments/assets/52facf07-4c5c-455c-b041-66efbc04155d" />
